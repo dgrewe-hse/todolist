@@ -1,0 +1,44 @@
+# Maven target directory
+/target/
+
+# IDE specific files
+/.idea/
+/*.iml
+/.classpath
+/.project
+/.settings/
+/*.vscode
+
+# Eclipse specific files
+/.metadata/
+/bin/
+/gen/
+
+# IntelliJ specific files
+*.ipr
+*.iws
+*.idea/
+*.iml
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# Maven wrapper files
+.mvn/wrapper/maven-wrapper.jar
+.mvn/wrapper/maven-wrapper.properties
+
+# Other files
+*.class
+*.jar
+*.war
+*.ear
+*.db
+*.h2.db
